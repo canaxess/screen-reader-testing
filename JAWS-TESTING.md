@@ -1,5 +1,5 @@
 # JAWS (v2021)
-Understand the core navigation methods for NVDA with the [NVDA keyboard shortcuts](https://dequeuniversity.com/screenreaders/jaws-keyboard-shortcuts). 
+Understand the core navigation methods for JAWS with the [JAWS keyboard shortcuts](https://dequeuniversity.com/screenreaders/jaws-keyboard-shortcuts). 
 
 ## Screen reader tests
 1. `Ensure the screen reader output matches the visual output of all headings`
