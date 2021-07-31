@@ -33,26 +33,23 @@ Understand the core gestures for navigating VoiceOver on macOS with the [macOS k
 5.	Turn VoiceOver off by pressing <kbd>;</kbd> followed by <kbd>command</kbd> + <kbd>F5</kbd>
 
 ## Test Headings
-1.	Select from the Rotor **Headings**
-2.	Swipe through the page headings
+1. Press <kbd>Command</kbd> + <kbd>H</kbd> to move forward through all headings, <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>H</kbd> to move backward through all headings
 3.	TEST : `Ensure the screen reader output matches the visual output of all headings`
 
 ## Test Links
-1.	Select from the Rotor **Links**
-2.	Swipe through the page links
+1. Press <kbd>Command</kbd> + <kbd>L</kbd> to move forward through all links, <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>L</kbd> to move backward through all links
 3.	TEST : `Ensure the screen reader output matches the visual output of all links (as a minimum)`
 
 ## Test Lists
 
-1.	Select from the Rotor **Lists**
-2.	Swipe through the page lists
+1. Press <kbd>Command</kbd> + <kbd>X</kbd> to move forward through all lists, <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>X</kbd> to move backward through all lists
 3.	TEST : `Ensure the screen reader output matches the visual output of all list elements`
 
 ## Test Tables
 
-1.	Select from the Rotor **Tables**
-2.	Swipe through the page tables
-3.	TEST : `Ensure the screen reader output the first 2 rows of a table and announces each column`
+1.	Press <kbd>Command</kbd> + <kbd>T</kbd> to move forward through all tables, <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>T</kbd> to move backward through all tables
+2.	Within each table press <kbd>Right Arrow</kbd> to move forward through the cells, press <kbd>Left Arrow</kbd> to move backward through the cells
+4.	TEST : `Ensure the screen reader output the first 2 rows of a table and announces each column`
 
 ## Test Error Messages
 
