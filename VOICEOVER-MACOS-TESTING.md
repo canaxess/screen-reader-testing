@@ -30,7 +30,7 @@ Understand the core gestures for navigating VoiceOver on macOS with the [macOS k
 2.	Go to the testing URL
 3.	Turn VoiceOver on by pressing <kbd>command</kbd> + <kbd>F5</kbd>
 4.	Turn VoiceOver lock on by pressing <kbd>control</kbd> + <kbd>option</kbd> + <kbd>;</kbd>
-5.	Turn VoiceOver off by pressing <kbd>command</kbd> + <kbd>F5</kbd>
+5.	Turn VoiceOver off by pressing <kbd>;</kbd> followed by <kbd>command</kbd> + <kbd>F5</kbd>
 
 ## Test Headings
 1.	Select from the Rotor **Headings**
