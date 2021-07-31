@@ -39,7 +39,7 @@ Understand the core navigation methods for NVDA with the [NVDA keyboard shortcut
 ## Test Error Messages
 
 1. Trigger all form errors
-2. TEST : `Ensure the screen reader output every visual error message` without swiping
+2. TEST : `Ensure the screen reader output every visual error message`
 
 ## Test Screen Activity
 
