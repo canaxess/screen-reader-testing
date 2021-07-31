@@ -54,7 +54,7 @@ Understand the core gestures for navigating VoiceOver on macOS with the [macOS k
 ## Test Error Messages
 
 1. Trigger all form errors
-2. TEST : `Ensure the screen reader output every visual error message` without swiping
+2. TEST : `Ensure the screen reader output every visual error message`
 
 ## Test Screen Activity
 
