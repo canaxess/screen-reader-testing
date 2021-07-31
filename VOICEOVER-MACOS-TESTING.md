@@ -13,7 +13,6 @@ Understand the core gestures for navigating VoiceOver on macOS with the [macOS k
 ## Add the accessibility shortcut
 1.	Enable this by going to **System Preferences** / **Keyboard** / **Shortcuts** / **Accessibility**
 2.	Select **Turn VoiceOver on or off**
-3.	Select **Show Accessibility controls**
 
 > The accessibility shortcut makes testing a lot quicker and easier as you don't have to go into settings each time to switch VoiceOver on and off.
 
