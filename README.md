@@ -1,3 +1,4 @@
 - Testing with [NVDA (v2020)](https://github.com/canaxess/accessibility-resources/blob/main/NVDA-TESTING.md)
+- Testing with [JAWS (v2021)](https://github.com/canaxess/accessibility-resources/blob/main/JAWS-TESTING.md)
 - Testing with [VoiceOver (iOS 14.6)](https://github.com/canaxess/accessibility-resources/blob/main/VOICEOVER-TESTING.md)
 - [WCAG 2.1 AA master list](https://canaxess.github.io/accessibility-resources/)
