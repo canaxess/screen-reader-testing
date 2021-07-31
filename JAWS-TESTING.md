@@ -30,12 +30,10 @@ Understand the core navigation methods for JAWS with the [JAWS keyboard shortcut
 2.  Within each list Press <kbd>I</kbd> to move forward through all list items, <kbd>Shift</kbd> + <kbd>I</kbd> to move backward through all list items
 3.	TEST : `Ensure the screen reader output matches the visual output of all list elements`
 
--- WIP --
-
 ## Test Tables
 
 1.	Press <kbd>T</kbd> to move forward through all tables, <kbd>Shift</kbd> + <kbd>T</kbd> to move backward through all tables
-2.	Within each table press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Right Arrow</kbd> to move forward through the cells, press <kbd>Up Arrow</kbd> to move backward through the cells
+2.	Within each table press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Right Arrow</kbd> to move forward through the cells, press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Left Arrow</kbd> to move backward through the cells
 4.	TEST : `Ensure the screen reader output the first 2 rows of a table and announces each column`
 
 ## Test Error Messages
