@@ -28,9 +28,12 @@ Understand the core gestures for navigating VoiceOver on macOS with the [macOS k
 ## General
 1.	Open Safari
 2.	Go to the testing URL
-3.	Turn VoiceOver on by pressing <kbd>command</kbd> + <kbd>F5</kbd>
-4.	Turn VoiceOver lock on by pressing <kbd>control</kbd> + <kbd>option</kbd> + <kbd>;</kbd>
-5.	Turn VoiceOver off by pressing <kbd>;</kbd> followed by <kbd>command</kbd> + <kbd>F5</kbd>
+3.	Turn VoiceOver on by pressing <kbd>Command</kbd> + <kbd>F5</kbd>
+4.	Turn VoiceOver lock on by pressing <kbd>Control</kbd> + <kbd>Option</kbd> + <kbd>;</kbd>
+>The <kbd>Control</kbd> and <kbd>Option</kbd> keys are locked so that they do not need to be pressed to perform VoiceOver commands
+5.	Turn VoiceOver off by pressing <kbd>;</kbd> followed by <kbd>Command</kbd> + <kbd>F5</kbd>
+
+
 
 ## Test Headings
 1. Press <kbd>Command</kbd> + <kbd>H</kbd> to move forward through all headings, <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>H</kbd> to move backward through all headings
