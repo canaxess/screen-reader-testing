@@ -11,7 +11,7 @@ Understand the core navigation methods for NVDA with the [NVDA keyboard shortcut
 1. `Ensure the screen reader output a controls outcome (collapsed/expanded, x number of items returned)`
 
 ## General
-1.	Open Chrome
+1.	Open browser
 2.	Go to the testing URL
 3.	Start NVDA
 4.	Exit NVDA when testing has completed
