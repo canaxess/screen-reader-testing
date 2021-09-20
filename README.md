@@ -12,9 +12,9 @@ _i.e. Sign in_
 1. `Ensure the screen reader output the first 2 rows of a table and announces the columns`
 
 ## User actions and workflow traversal
-1. `Ensure the screen reader output every visual error message`
-1. `Ensure the screen reader output all significant page activity (ajax spinner icon, new page)`
-1. `Ensure the screen reader output a controls outcome (collapsed/expanded, x number of items returned)`
+5. `Ensure the screen reader output every visual error message`
+6. `Ensure the screen reader output all significant page activity (ajax spinner icon, new page)`
+7. `Ensure the screen reader output a controls outcome (collapsed/expanded, x number of items returned)`
 
 ## Screen reader documentation
 - Testing with [NVDA (v2020)](https://github.com/canaxess/accessibility-resources/blob/main/NVDA-TESTING.md)
