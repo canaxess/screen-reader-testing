@@ -23,5 +23,8 @@ _i.e. Sign in_
 - Testing with [VoiceOver (macOS 11.1 Big Sur)](https://github.com/canaxess/accessibility-resources/blob/main/VOICEOVER-MACOS-TESTING.md)
 - Testing with [TalkBack (Android v10, Android v11)](https://github.com/canaxess/accessibility-resources/blob/main/TALKBACK-TESTING.md)
 
+## Excel spreadsheet
+- [Screen reader compatibility matrix](https://github.com/canaxess/accessibility-resources/raw/main/screen-reader-compatibility-matrix.xlsx)
+
 ## WCAG 2.1 AA master list
 - [WCAG 2.1 AA master list](https://canaxess.github.io/accessibility-resources/)
