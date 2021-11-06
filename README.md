@@ -26,5 +26,5 @@ _i.e. Sign in_
 ## Excel spreadsheet
 - [Screen reader compatibility matrix](https://github.com/canaxess/accessibility-resources/raw/main/screen-reader-compatibility-matrix.xlsx)
 
-## WCAG 2.1 AA master list
-- [WCAG 2.1 AA master list](https://canaxess.github.io/accessibility-resources/)
+## WCAG 2.1 AA filter tool
+- [WCAG Filter Tool](https://wcag-filter-tool.netlify.app/)
