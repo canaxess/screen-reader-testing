@@ -1,8 +1,6 @@
 # Screen reader testing
 Move beyond trivial screen reader testing and instead test an entire workflow. Can a user navigate and traverse several workflows to complete a task?
 
-_i.e. Sign in_
-
 7 tests in total with the first 4 navigational waypoints a user may encounter traversing a workflow, followed by 3 tests interacting with elements as part of the workflow.
 
 ## Orientation and waypoint finding
@@ -22,9 +20,3 @@ _i.e. Sign in_
 - Testing with [VoiceOver (iOS 14.6)](https://github.com/canaxess/accessibility-resources/blob/main/VOICEOVER-TESTING.md)
 - Testing with [VoiceOver (macOS 11.1 Big Sur)](https://github.com/canaxess/accessibility-resources/blob/main/VOICEOVER-MACOS-TESTING.md)
 - Testing with [TalkBack (Android v10, Android v11)](https://github.com/canaxess/accessibility-resources/blob/main/TALKBACK-TESTING.md)
-
-## Excel spreadsheet
-- [Screen reader compatibility matrix](https://github.com/canaxess/accessibility-resources/raw/main/screen-reader-compatibility-matrix.xlsx)
-
-## WCAG 2.1 AA filter tool
-- [WCAG Filter Tool](https://wcag-filter-tool.netlify.app/)
